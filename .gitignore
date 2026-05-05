@@ -1,0 +1,63 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# PyInstaller
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Logs and outputs
+*.log
+*.out
+*.err
+
+# Data files (large datasets)
+*.csv
+*.tsv
+*.jsonl
+*.xlsx
+*.h5
+
+# Model weights / checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local IDE/project files
+.vscode/
+.idea/
+
+# Environment configuration
+.env
+*.env
